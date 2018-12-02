@@ -1,0 +1,79 @@
+[
+    {
+        "questionNumber": 1,
+        "question": "Which is the Capital City of India ?",
+        "options": {
+            "A": "Delhi",
+            "B": "Bengaluru",
+            "C": "kolkata",
+            "D": "Hyderbad"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "questionNumber": 2,
+        "question": "Which is the National Animal of India ?",
+        "options": {
+            "A": "Tiger",
+            "B": "Lion",
+            "C": "Elephant",
+            "D": "Rabbit"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "questionNumber": 3,
+        "question": "Former Australian captain Mark Taylor has had several nicknames over his playing career. Which of the following was NOT one of them ?",
+        "options": {
+            "A": "Tubby",
+            "B": "Stodge",
+            "C": "Helium Bat",
+            "D": "Stumpy"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "questionNumber": 4,
+        "question": "Which was the 1st non Test playing country to beat India in an international match ?",
+        "options": {
+            "A": "Canada",
+            "B": "Sri Lanka",
+            "C": "Zimbabwe",
+            "D": "East Africa"
+        },
+        "CorrectAnswer": "B"
+    },
+    {
+        "questionNumber": 5,
+        "question": "Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Eight"
+        },
+        "CorrectAnswer": "C"
+    },
+    {
+        "questionNumber": 6,
+        "question": "Which county did Ravi Shastri play for ?",
+        "options": {
+            "A": "Glamorgan",
+            "B": "Leicestershire",
+            "C": "Lancashire",
+            "D": "Lanchire"
+        },
+        "CorrectAnswer": "A"
+    },
+    {
+        "questionNumber": 7,
+        "question": "Which Country Won the First T20 Cricket World Cup?",
+        "options": {
+            "A": "Canada",
+            "B": "Sri Lanka",
+            "C": "India",
+            "D": "East Africa"
+        },
+        "CorrectAnswer": "C"
+    }
+]
